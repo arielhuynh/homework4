@@ -11,5 +11,5 @@ The score is calculated by time remaining. Answering incorrectly results in a 10
 
 When time runs out or all the questions have been answered, the user is presented with the final score and is asked to enter their initials. The final score and user initial are then stored in the local storage.
 
-URL of deployed application: https://arielhuynh.github.io/homework4/
-URL of GitHub repository: https://github.com/arielhuynh/homework4
+URL of deployed application: https://arielhuynh.github.io/homework4/.
+URL of GitHub repository: https://github.com/arielhuynh/homework4.
