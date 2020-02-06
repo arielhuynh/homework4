@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    background-color: palevioletred;
+}
+
+.option {
+    display: block;
+    padding: 5px;
+    width: 200px;
+    text-align: center;
+    margin-left: 45%;
+}
+
+.card-header {
+    font-size: 50px;
+}
+
+.quizContainer {
+    background-color: palegreen;
+    padding: 20px;
+}
